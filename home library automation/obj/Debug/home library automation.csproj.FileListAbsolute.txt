@@ -1,0 +1,52 @@
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\bin\Debug\home library automation.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\bin\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\bin\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home_library_automation.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home_library_automation.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\bin\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\bin\Debug\home library automation.application
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.application
+C:\Users\Yücel\Desktop\VStudio projects\home library automation\home library automation\obj\Debug\home library automation.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\home library automation\home library automation\bin\Debug\home library automation.exe.config
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\home library automation\home library automation\bin\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\home library automation\home library automation\bin\Debug\home library automation.application
+C:\Users\Yücel\Desktop\home library automation\home library automation\bin\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\home library automation\home library automation\bin\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home_library_automation.Form1.resources
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home_library_automation.Properties.Resources.resources
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\home library automation\home library automation\obj\Debug\home library automation.application
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.application
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.pdb
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home_library_automation.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home_library_automation.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.exe.manifest
+C:\Users\Yücel\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.application
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe.config
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.exe
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.pdb
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe.manifest
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.application
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.exe
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\bin\Debug\home library automation.pdb
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home_library_automation.Form1.resources
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home_library_automation.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.exe.manifest
+C:\Users\R\Desktop\VStudio projects\home library automation(bitmiş hal)\home library automation\obj\Debug\home library automation.application
